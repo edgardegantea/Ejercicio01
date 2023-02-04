@@ -34,4 +34,4 @@ Se requiere un programa en Java para convertir una cantidad de dinero en otros t
  
  ## Etapa 03. Diseño la solución
  
-  
+ ![](https://github.com/edgardegantea/Ejercicio01/blob/master/Diagrama%20de%20clases.png)
